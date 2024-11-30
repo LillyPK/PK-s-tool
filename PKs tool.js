@@ -173,7 +173,7 @@
 }
 
 .html5-video-player.unstarted-mode {
-    background-image: url('https://avatars.githubusercontent.com/u/54366580?v=4');
+    background-image: url('https://raw.githubusercontent.com/LillyPK/image-repo/refs/heads/main/untitled.png');
     background-repeat: no-repeat;
     background-position: 50% 50%;
     display: flex;
